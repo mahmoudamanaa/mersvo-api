@@ -1,1 +1,0 @@
-handle file deletion on errors and delete user and update user delete old photo
